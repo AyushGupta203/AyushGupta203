@@ -41,5 +41,6 @@ React Router · useContext · OMDB API · Tailwind CSS
 
 
 ---
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushGupta203&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushGupta203&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGupta203&layout=compact&theme=tokyonight&hide_border=true)
