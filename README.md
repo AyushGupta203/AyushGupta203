@@ -44,6 +44,4 @@ AWS EC2 · VPC · Nginx
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushGupta203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AyushGupta203&theme=tokyonight&hide_border=true)
